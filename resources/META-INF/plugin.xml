@@ -1,8 +1,8 @@
 <idea-plugin version="2">
-  <id>com.your.company.unique.plugin.id</id>
+  <id>me.xujc.leavecodecontext</id>
   <name>Leave Current Code Context</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="hpop1994@163.com" url="http://ihavenourlhelpmeplease.rightnow">xujc</vendor>
 
   <description><![CDATA[
       Enter short description for your plugin here.<br>
